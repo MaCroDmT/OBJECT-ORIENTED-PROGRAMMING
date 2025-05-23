@@ -1,0 +1,4 @@
+D:\OBJECT ORIENTED PROGRAMMING 2\LAB\poly\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OBJECT ORIENTED PROGRAMMING 2\LAB\poly\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\OBJECT ORIENTED PROGRAMMING 2\LAB\poly\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\OBJECT ORIENTED PROGRAMMING 2\LAB\poly\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
